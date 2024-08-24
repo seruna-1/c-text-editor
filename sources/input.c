@@ -192,3 +192,4 @@ void editorProcessKeypress()
 
 	quit_times = VIMWANNABE_QUIT_TIMES;
 }
+

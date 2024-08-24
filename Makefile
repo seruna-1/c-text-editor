@@ -1,6 +1,6 @@
 NAME = vimwannabe
 CC = cc
-CFLAGS = -Wall -Wextra -Werror -pedantic -std=c99
+CFLAGS = -Wall -Wextra -Werror -pedantic -std=c23
 RM = rm -f
 
 SRCS =	sources/main.c \

@@ -183,3 +183,5 @@ void editorSetStatusMessage(const char *fmt, ...)
     va_end(ap);
     E.statusmsg_time = time(NULL);
 }
+
+
